@@ -14,7 +14,7 @@ A block parser tool that allows extraction of various data types on DAS
 ### Source Compile
 ```bash
 # get the code
-git clone https://github.com/dotbitHQ/das-database.git
+git clone https://github.com/dotbitHQ/das-database
 
 # init config/config.yaml
 cp config/config.example.yaml config/config.yaml
